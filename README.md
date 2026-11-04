@@ -14,8 +14,35 @@ Rec Room officially stopped running. Its servers shut down on June 1 2026. That 
 
 **Themes:** Company · Entertainment · Gaming · Virtual Reality · Social Platform · User Generated Content · Metaverse
 
+## Discovered Sub-Domains
+
+| Service | Dicovered? |
+|---|---|
+| Accounts | ✅ |
+| Ai | ✅ |
+| Api | ✅ |
+| Auth | ✅ |
+| Cards | ✅ |
+| Cdn | ✅ |
+| Chat | ✅ |
+| Clubs | ✅ |
+| Commerce | ✅ |
+| Datacollection | ✅ |
+| Discovery | ✅ |
+| Econ | ✅ |
+| Img | ✅ |
+| Link | ✅ |
+| Match | ✅ |
+| Moderation | ✅ |
+| Notify | ✅ |
+| Ns | ✅ |
+| Playersettings | ✅ |
+| Rooms | ✅ |
+
 ## Rec Room Official Domain
 
 Link to original Rec Room game domain.
 
 - [https://rec.net/](https://rec.net)
+
+Not affiliated with Rec Room Inc & Anti Gravity Team @ 2026
